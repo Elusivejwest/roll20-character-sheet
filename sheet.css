@@ -1,0 +1,15 @@
+.sheet-container {
+    font-family: Arial, sans-serif;
+}
+
+.attribute {
+    margin-bottom: 10px;
+}
+
+label {
+    margin-right: 10px;
+}
+
+input[type="number"] {
+    width: 50px;
+}

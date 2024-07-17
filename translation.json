@@ -1,0 +1,11 @@
+{
+    "name": "Custom Character Sheet",
+    "attributes": {
+        "strength": "Strength",
+        "dexterity": "Dexterity",
+        "constitution": "Constitution",
+        "intelligence": "Intelligence",
+        "wisdom": "Wisdom",
+        "charisma": "Charisma"
+    }
+}
